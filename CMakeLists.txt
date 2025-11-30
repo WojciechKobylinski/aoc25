@@ -7,5 +7,5 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(aoc25 
     main.cpp 
     day0.cpp 
-    day0.h
+    day.h
 )

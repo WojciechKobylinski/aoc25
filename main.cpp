@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "day0.h"
+#include "day.h"
 // #include "day1.h" // Tutaj będziesz dodawał kolejne dni
 
 using namespace std;
